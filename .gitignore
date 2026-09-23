@@ -2,3 +2,7 @@ styles.css
 *.log
 User_Manual/
 *-*.txt
+docs/Software_Requirement_Specification/*
+!docs/Software_Requirement_Specification/*final*
+docs/Software_Design_Document/*
+!docs/Software_Design_Document/*final*
